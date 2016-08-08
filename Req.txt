@@ -1,0 +1,8 @@
+A Sightly  FAQ component.
+
+Use
+•	ACS AEM Commons ‘multifieldpanel’  widget
+•	Should be developed using Sightly.
+•	Implement it using Sightly-Use api
+•	Should be able to drag-n-drop into parsys from sidekick. 
+•	Don’t worry about the look-and-feel
